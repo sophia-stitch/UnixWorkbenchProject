@@ -1,3 +1,7 @@
-Peer-graded Assignment: Bash, Make, Git, and GitHub
-Sun Mar  4 00:58:51 EST 2018
+Sophia's Project
+
+ Date and Time:
+Sun Mar 11 23:13:02 EDT 2018
+
+ Number of lines:
 27
